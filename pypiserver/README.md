@@ -14,10 +14,10 @@ This chart installs a PyPI server
 
 ## Adding the repo
 
-To add the repo to helm with the name `owkin`:
+To add the repo to helm with the name `avances123`:
 
 ```bash
-$ helm repo add owkin https://owkin.github.io/charts
+$ helm repo add avances123 https://avances123.github.io/charts
 ```
 
 ## Installing the Chart
@@ -25,7 +25,7 @@ $ helm repo add owkin https://owkin.github.io/charts
 To install the chart with the release name `my-release`:
 
 ```bash
-$ helm install --name my-release owkin/pypiserver
+$ helm install --name my-release avances123/pypiserver
 ```
 
 ## Upgrading the Charts
@@ -33,7 +33,7 @@ $ helm install --name my-release owkin/pypiserver
 Updating the chart is as straightforward as updating the helm release
 
 ```bash
-$ helm upgrade my-release owkin/pypiserver
+$ helm upgrade my-release avances123/pypiserver
 ```
 
 ## Configuration
