@@ -9,11 +9,11 @@ entries:
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
-    - email: clement@gautier.im
-      name: ClementGautier
+    - email: avances123@gmail.com
+      name: Fabio Rueda
     name: pypiserver
     sources:
-    - https://github.com/owkin/charts/tree/master/pypiserver
+    - https://github.com/avances123/charts/tree/master/pypiserver
     - https://github.com/pypiserver/pypiserver
     - https://pypi.org/project/pypiserver/
     urls:
@@ -27,11 +27,11 @@ entries:
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
-    - email: clement@gautier.im
-      name: ClementGautier
+    - email: avances123@gmail.com
+      name: Fabio Rueda
     name: pypiserver
     sources:
-    - https://github.com/owkin/charts/tree/master/pypiserver
+    - https://github.com/avances123/charts/tree/master/pypiserver
     - https://github.com/pypiserver/pypiserver
     - https://pypi.org/project/pypiserver/
     urls:
@@ -45,8 +45,8 @@ entries:
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
-    - email: clement@gautier.im
-      name: ClementGautier
+    - email: avances123@gmail.com
+      name: Fabio Rueda
     name: pypiserver
     sources:
     - https://github.com/pypiserver/pypiserver
@@ -62,8 +62,8 @@ entries:
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
-    - email: clement@gautier.im
-      name: ClementGautier
+    - email: avances123@gmail.com
+      name: Fabio Rueda
     name: pypiserver
     sources:
     - https://github.com/pypiserver/pypiserver
@@ -79,8 +79,8 @@ entries:
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
-    - email: clement@gautier.im
-      name: ClementGautier
+    - email: avances123@gmail.com
+      name: Fabio Rueda
     name: pypiserver
     sources:
     - https://github.com/pypiserver/pypiserver
