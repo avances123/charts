@@ -3,9 +3,9 @@ entries:
   pypiserver:
   - apiVersion: v1
     appVersion: 1.3.2
-    created: "2020-06-01T10:24:21.406338078+02:00"
+    created: "2020-06-01T11:09:40.852637183+02:00"
     description: PyPI compatible server for pip or easy_install.
-    digest: e930b7b6773f7e07b8c1f87a356c546584b67299e58b1d566447dd3a75f8d6bb
+    digest: af62da489882475f990486ac9f8d477b18a8383cf1e17691aa63c5a465d6e56f
     home: https://github.com/pypiserver/pypiserver
     icon: https://raw.githubusercontent.com/pypiserver/pypiserver/master/pypiserver_logo.png
     maintainers:
@@ -19,4 +19,4 @@ entries:
     urls:
     - https://github.com/avances123/charts/releases/download/pypiserver-2.0.0/pypiserver-2.0.0.tgz
     version: 2.0.0
-generated: "2020-06-01T10:24:20.808808439+02:00"
+generated: "2020-06-01T11:09:40.519350123+02:00"
